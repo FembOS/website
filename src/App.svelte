@@ -3,8 +3,8 @@
 </script>
 
 <main>
-  <h1>FembOS</h1>
   <Navbar />
+  <h1>FembOS</h1>
 </main>
 
 <style>
